@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 23 09:40:08 2019
-
-@author: Steven
-"""
-
 """
 Unit tests for the calculator library
 """
